@@ -1,2 +1,0 @@
-# lern_js
-sgdfgdfg
